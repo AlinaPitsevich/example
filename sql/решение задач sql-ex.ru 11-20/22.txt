@@ -1,5 +1,0 @@
-Select speed, avg(price)
-from PC
-group by pc.speed
-having speed > 600
-

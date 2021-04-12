@@ -1,5 +1,0 @@
-select hd from pc
-group by (hd)
-having 
-COUNT(model) >= 2
-
